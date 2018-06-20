@@ -1,0 +1,16 @@
+/.idea/
+*.iml
+/target/
+/lib
+/src/test/resources/cucumber.json
+/src/test/resources/usage.json
+/src/test/resources/elements.xlsx
+/src/test/resources/wcag.xlsx
+/src/test/resources/files/*.*
+/bin
+phantomjsdriver.log
+.classpath
+AccessibilityCheck.json
+debug.log
+.metadata*
+/build
